@@ -96,5 +96,5 @@ ECC (Eliptik Eğri Kriptografisi), veri güvenliği için modern ve hafif bir al
 
 ### 1. Projeyi Klonlayın:
 ```bash
-git clone https://github.com/ZakirBaghirov/safecrypt_pro.git
-cd safecrypt_pro
+git clone https://github.com/ZakirBaghirov/safecrypt_pro1.git
+cd safecrypt_pro1
